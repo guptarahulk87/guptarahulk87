@@ -46,4 +46,4 @@ I work on turning raw data into practical business insights through analytics, m
 
 ## Current Focus
 
-I’m building projects around machine learning, analytics, and applied business intelligence, with a strong interest in solving real-world problems through clean data workflows and interpretable models.
+I'm building projects around machine learning, analytics, and applied business intelligence, with a strong interest in solving real-world problems through clean data workflows and interpretable models.
