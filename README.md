@@ -36,7 +36,6 @@ I work on turning raw data into practical business insights through analytics, m
 ## Certifications
 
 - Generative AI Fundamentals
-- Databricks
 - Data Analytics Job Simulation - Deloitte (Forage)
 
 ## Connect With Me
